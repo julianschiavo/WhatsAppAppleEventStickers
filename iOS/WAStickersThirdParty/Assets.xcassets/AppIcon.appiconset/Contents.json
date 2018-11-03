@@ -33,13 +33,13 @@
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "Cuppy_120.png",
+      "filename" : "WAAppleEventStickers_120.png",
       "scale" : "2x"
     },
     {
       "size" : "60x60",
       "idiom" : "iphone",
-      "filename" : "Cuppy_180.png",
+      "filename" : "WAAppleEventStickers_180.png",
       "scale" : "3x"
     },
     {
@@ -88,9 +88,8 @@
       "scale" : "2x"
     },
     {
-      "size" : "1024x1024",
       "idiom" : "ios-marketing",
-      "filename" : "Cuppy_1024.png",
+      "size" : "1024x1024",
       "scale" : "1x"
     }
   ],
